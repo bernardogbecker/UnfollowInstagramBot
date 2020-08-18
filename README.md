@@ -1,6 +1,9 @@
 # UnfollowInstagramBot
 An Instagram bot using Selenium webdriver and InstagramAPI, written in Python.
 
+For you to use, you will have to download the edgewebdriver (https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+And you will need to install the Selenium and InstagramAPI package.
+
 It works great for unfollowing people that doesn't follow you back. The code uses the sleep function a lot to prevent instagram to ban or something.
 Feel free to download it, use it, report some bug and change anything you want!
 
