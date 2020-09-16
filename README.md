@@ -10,4 +10,5 @@ the main code is in UnfollowWeb.py
 
 P.s. There's some parts in the code that is written in portuguese, like click the button "agora não", to work perfectly you might have to change those to your language.
 
+P.s. I added a follow function, you need to pass the InstagramID you want to follow all the users the account follows. The main code for this function in FollowWeb.py
 
