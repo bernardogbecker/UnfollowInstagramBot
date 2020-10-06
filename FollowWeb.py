@@ -49,8 +49,8 @@ class InstaBot:
             if i in range(10, len(Seguir), 20):
                 sleep(600)
 
-USERNAME = 'petma_ufsc' #Write your USERNAME here
-PASS = 'madruGa10' #Write your PASSWORD here
+USERNAME = '' #Write your USERNAME here
+PASS = '' #Write your PASSWORD here
 USERNAMETOFOLLOW = 'neo.empresarial' #Write the user you want to steal all the following
 path = 'C:\Program Files\msedgedriver' #Write your path to msedgedriver, download at https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 x = InstaBot(USERNAME, PASS, USERNAMETOFOLLOW)
