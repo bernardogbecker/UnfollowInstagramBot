@@ -51,7 +51,7 @@ class InstaBot:
 
 USERNAME = '' #Write your USERNAME here
 PASS = '' #Write your PASSWORD here
-USERNAMETOFOLLOW = 'neo.empresarial' #Write the user you want to steal all the following
+USERNAMETOFOLLOW = '' #Write the user you want to steal all the following
 path = 'C:\Program Files\msedgedriver' #Write your path to msedgedriver, download at https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 x = InstaBot(USERNAME, PASS, USERNAMETOFOLLOW)
 x.getfollow()
